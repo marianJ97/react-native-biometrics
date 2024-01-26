@@ -80,6 +80,10 @@ rnBiometrics.createKeys().then((resultObject) => {
 **iOS Example**
 
 ```js
+import ReactNativeBiometrics from "react-native-biometrics";
+
+const rnBiometrics = new ReactNativeBiometrics();
+
 rnBiometrics
   .createKeys({ accessGroup: "yourGroupIdentifier" })
   .then((resultObject) => {
