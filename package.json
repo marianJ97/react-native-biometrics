@@ -31,10 +31,7 @@
     "url": "git+https://github.com/marianJ97/react-native-biometrics.git"
   },
   "private": false,
-  "author": {
-    "name": "MarianJ",
-    "url": "https://https://github.com/marianJ97"
-  },
+  "author": "MarianJ",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.60.0"
