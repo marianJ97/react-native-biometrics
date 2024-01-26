@@ -1,6 +1,6 @@
 {
   "name": "@marianj97/react-native-biometrics",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A fork of React Native library for biometrics",
   "description": "A forked repository that comes from SelfLender/react-native-biometrics and includes React Native biometric functionality for signing and encryption that allows additional options when generating keys (more added later)",
   "main": "build/cjs/index.js",

@@ -53,11 +53,13 @@ All other cases are identical, so for more information reach [SelfLender/react-n
 
 Generates a public private RSA 2048 key pair that will be stored in the device keystore. Returns a `Promise` that resolves to an object providing details about the keys.
 
-**Result Object**
+**Parameters Object**
 
-| Arguments   | Type   | Description                                                                  |
+| Property    | Type   | Description                                                                  |
 | ----------- | ------ | ---------------------------------------------------------------------------- |
 | accessGroup | string | String representation of accessGroup in which will be keys stored (iOS only) |
+
+**Result Object**
 
 | Property  | Type   | Description                                         |
 | --------- | ------ | --------------------------------------------------- |
